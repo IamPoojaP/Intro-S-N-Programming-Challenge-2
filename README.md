@@ -15,3 +15,7 @@
     <li>On the Server Terminal type **```./HTTP_Server```** to run it</li>
     <li>On the Client Terminal type **```./HTTP_Client```** to run it</li>
     </ul>
+
+**Expected Results**
+Here is an image depicting the outcomes observed on my device.
+![Challenge Results 2](/Challenge%202%20Results.png)
